@@ -1,0 +1,14 @@
+# IDE soubory
+.idea/
+*.sln.iml
+.vscode/
+
+# Kompilace a buildy
+bin/
+obj/
+*.exe
+*.dll
+
+# OS veci
+.DS_Store
+.DS_Store
