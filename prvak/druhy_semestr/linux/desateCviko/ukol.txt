@@ -1,0 +1,107 @@
+/tmp/x12/submit.sh TASK_PREFIX <SOLUTION.sh
+
+01-substring
+   Napište příkaz, který vypíše řádky obsahující ABC jako podřetězec.
+  
+   Write a command that prints lines containing ABC as a substring.
+
+02-matching_line
+   Napište příkaz, který nic nevypisuje
+   a skončí úspěšně právě tehdy, když vstup obsahuje řádek ABC.
+  
+   Write a command that prints nothing and terminates correctly only if the
+   input contains line ABC.
+
+03-matching_word
+   Napište příkaz, který vypíše řádky obsahující slovo ABC;
+   pokud je vedle něj jiný obsah musí být oddělen mezerou.
+  
+   Write a command that prints lines containing word ABC; if there is
+   another content around, it must be separated by whitespace from ABC.
+
+04-non_matching
+   Napište příkaz, který vypíše výskyty ABC, ABBC, ABBBC, ...
+   na řádcích neobsahujících DEF, DEEF, DEEEF, ....
+   Lze vyřešit dvojím voláním `grep`u.
+  
+   Write a command that prints occurences of ABC, ABBC, ABBBC, ... on lines
+   that do not contain DEF, DEEF, DEEEF, ....
+   Can be solved by double call to `grep`.
+
+05-specials
+   Napište příkaz, který vypíše řádky obsahující
+   jeden z následujících podřetězců (bez apostrofů):
+     '+*', '+**', '+***', ...,
+     tříznakové slovo nad množinou {'A', 'B', ..., 'Z', '-'},
+     'a.txt'.
+   (Při definování množiny znaků se '-' chová jinak jako poslední znak.)
+  
+   Write a command that prints lines containing any of the following
+   substrings (without quotes):
+     '+*', '+**', '+***', ...,
+     three-letter word from the set of{'A', 'B', ..., 'Z', '-'},
+     'a.txt'.
+   (When defining set of chars, recall that '-' behaves differently when being 
+   the last character.)
+
+06-bold_italics
+   Skript v textu nahradí `*...*` za `<b>...</b>` a `_..._` za `<i>...</i>`,
+   tučné písmo a kurzíva můžou být vnořené do sebe.
+  
+   Script will replace `*...*` with `<b>...</b>` and `_..._` with `<i>...</i>`,
+   these can be nested into each other.
+
+07-numbers
+   Skript v textu rozdělí všechna čísla na skupiny po třech (první může být neúplná):
+     '+420123456789' ->  '+420 123 456 789'
+     '25000 Kč'      ->  '25 000 Kč'
+  
+   Script will split numbers into groups by three (first might be incomplete):
+     '+420123456789' ->  '+420 123 456 789'
+     '25000 Kč'      ->  '25 000 Kč'
+  
+
+08-comments
+   Skript z textu odstraní řádky začínající `#` a konce řádků od `#` dál,
+   bílé znaky před `#` se ignorují/odstraní:
+  
+     '  # komentář\nTEXT'      -> 'TEXT'
+     'TEXT  # komentář\nTEXT'  -> 'TEXT\nTEXT'
+  
+   Script will drop lines beginning with `#` and all the text after `#`.
+   White space before `#` is ignored/removed:
+  
+     '  # comment\nTEXT'      -> 'TEXT'
+     'TEXT  # comment\nTEXT'  -> 'TEXT\nTEXT'
+  
+
+09-palindrom
+   Skript pro každý vstupní řádek vypíše `YES` nebo `NO` podle toho,
+   jestli je řádek palindromem -- slovem psaným stejně normálně i pozpátku.
+  
+   For each input line the script will print `YES` or `NO` depending if
+   if the line is palindrom -- word that is the same whether read forward
+   or backward.
+
+10-images
+   Skript dostane jako parametr URL,
+   z dané stránky má vypsat adresy všech obrázků, které se na ní nachází.
+   Konkrétně má nalézt všechny tagy `img` a vypsat jejich atribut `src`,
+   na každý řádek jeden:
+  
+     <img src="ADDR">  ->  ADDR
+     <img class='image' src='ADDR' id='first'>  ->  ADDR
+  
+   Pro stažení stránky použijte `curl`, ne `wget`.
+   Otestujte skript např. na stránkách Wikipedie.
+  
+   Script will receive URL as a parameter. From the given page it should
+   print address of all images on it.
+   More precisely it will find all `img` tags and print their `src` attribute,
+   one per line:
+  
+     <img src="ADDR">  ->  ADDR
+     <img class='image' src='ADDR' id='first'>  ->  ADDR
+  
+   Use curl to download the webpage, not `wget`.
+   Feel free to test your script on Wikipedia site, for example.
