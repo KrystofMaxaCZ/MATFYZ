@@ -1,0 +1,500 @@
+  132  git push
+  133  git status
+  134  cat random.sh 
+  135  git log 
+  136  cd ..
+  137  git switch merkulovi/random
+  138  git switch merkuloi/random
+  139  ls
+  140  cd random
+  141  ls
+  142  cd ..
+  143  cat realname/README.cz.md 
+  144  cd random/
+  145  ls
+  146  cd merkuloi/
+  147  ls
+  148  vim ahoj.sh
+  149  vim ahoj.sh
+  150  chmod +x ahoj.sh 
+  151  ./ahoj.sh 
+  152  git add ahoj.sh 
+  153  git commit -m "Ahoj skript pro ivana"
+  154  git push
+  155  git pull
+  156  git status
+  157  ls
+  158  git switch master
+  159  ./ahoj.sh 
+  160  ls
+  161  ls
+  162  cd linuxCviko/
+  163  ls
+  164  git clone gitolite3@linux.ms.mff.cuni.cz:lab06-x12
+  165  ssh-keygen
+  166  ssh-copy-id maxak@linux.ms.mff.cuni.cz
+  167  git clone gitolite3@linux.ms.mff.cuni.cz:lab06-x12
+  168  git clone gitolite3@linux.ms.mff.cuni.cz:lab06-x12
+  169  ssh maxak@linux.ms.mff.cuni.cz
+  170  git clone gitolite3@linux.ms.mff.cuni.cz:lab06-x12
+  171  ls
+  172  cat ../ssh/id
+  173  cat ../ssh/
+  174  cat ../.ssh/id_ed25519.pub
+  175  git clone gitolite3@linux.ms.mff.cuni.cz:lab06-x12
+  176  ls
+  177  cd lab06-x12/
+  178  ls
+  179  cat README.
+  180  cat README.cz.md 
+  181  git config --global user.email "maxak@lab06"
+  182  git config --global user.name
+  183  git config --global user.name
+  184  git config --global user.email
+  185  git config --global user.name "maxak"
+  186  git config --global user.name
+  187  ls
+  188  ls random
+  189  cd random/
+  190  ;s
+  191  ls
+  192  cat README.cz.md 
+  193  cd /afs/ms.mff.cuni.cz/u/m/maxak/linuxCviko/lab06-x12/random
+  194  ls
+  195  cat README.cz.md 
+  196  cat README.cz.md 
+  197  cat README.cz.md 
+  198  ls
+  199  cd ..
+  200  ls
+  201  git status
+  202  ls
+  203  cd realname/
+  204  ls
+  205  cat README.cz.md 
+  206  git pull
+  207  cat realname.sh 
+  208  vim realname.sh 
+  209  ./realname.sh 
+  210  ./realname.sh maxa
+  211  vim realname.sh 
+  212  ./realname.sh maxak
+  213  vim realname.sh 
+  214  vim realname.sh 
+  215  git add realname.sh 
+  216  git commit -m "pridani maxak, oprava skriptu"
+  217  git push
+  218  git fetch
+  219  git merge origin/master
+  220  vim realname.sh 
+  221  git push
+  222  git fetch
+  223  vim realname.sh 
+  224  git merge origin/master
+  225  git add realname.sh 
+  226  git commit -m "pridani maxak, oprava skriptu"
+  227  git push
+  228  git fetch
+  229  git fetch
+  230  git fetch
+  231  git fetch
+  232  git fetch
+  233  git merge origin/master
+  234  git push
+  235  ./realname.sh maxak
+  236  git fetch
+  237  git fetch
+  238  git pull
+  239  ./realname.sh maxak
+  240  ls
+  241  mkdir bormax
+  242  cd bormax
+  243  cd ..
+  244  ls -al
+  245  google-chrome &
+  246  cd bormax/
+  247  c
+  248  OBexit
+  249  ls
+  250  ls Desktop/
+  251  ls linuxCviko/
+  252  cd Desktop/
+  253  ls
+  254  cd root.desktop 
+  255  ls -la
+  256  cat root.desktop 
+  257  ls
+  258  cat home.desktop 
+  259  ls -la
+  260  cd 
+  261  ls
+  262  cd linuxCviko/
+  263  ls
+  264  mkdir sedmeCviceni
+  265  cd sedmeCviceni/
+  266  vim faktorial.sh
+  267  chmod +x faktorial.sh 
+  268  ./faktorial.sh 4
+  269  vim faktorial.sh
+  270  ./faktorial.sh 4
+  271  vim faktorial.sh
+  272  ./faktorial.sh 4
+  273  ./faktorial.sh 
+  274  ./faktorial.sh 2
+  275  ./faktorial.sh 1
+  276  vim faktorial.sh
+  277  ./faktorial.sh 4
+  278  ./faktorial.sh 10
+  279  ./faktorial.sh 17
+  280  ./faktorial.sh 129
+  281  ./faktorial.sh 29
+  282  ./faktorial.sh 28
+  283  ./faktorial.sh 27
+  284  ./faktorial.sh 24
+  285  ./faktorial.sh 21
+  286  ./faktorial.sh 19
+  287  ./faktorial.sh 20
+  288  vim faktorial.sh
+  289  cat faktorial.sh 
+  290  man uniq 
+  291  vim text.txt
+  292  uniq -d text.txt 
+  293  man sha256sum
+  294  sha256sum text.txt 
+  295  sha256sum -t text.txt 
+  296  uniq -d text.txt 
+  297  uniq -d text.txt < "$@"
+  298  uniq -d 
+  299  vim seznam_souboru.txt
+  300  ./duplicate_files.sh
+  301  vim duplicate_files.sh
+  302  chmod duplicate_files.sh 
+  303  chmod +x duplicate_files.sh 
+  304  ./duplicate_files.sh 
+  305  ./duplicate_files.sh asd asd 
+  306  vim duplicate_files.sh 
+  307  vim duplicate_files.sh 
+  308  ./duplicate_files.sh asd asd 
+  309  vim duplicate_files.sh 
+  310  ./duplicate_files.sh asd asd 
+  311  vim duplicate_files.sh 
+  312  shellcheck duplicate_files.sh 
+  313  seq -s " * " 10
+  314  seq -s " * " 10 | bc
+  315  vim faktorial.sh 
+  316  ./faktorial.sh 10
+  317  ./duplicate_files.sh 
+  318  vim duplicate_files.sh 
+  319  vim faktorial.sh 
+  320  ./faktorial.sh 
+  321  ./faktorial.sh  12
+  322  ./faktorial.sh 12
+  323  vim faktorial.sh 
+  324  ./faktorial.sh 12
+  325  vim duplicate_files.sh 
+  326  ls
+  327  cat *
+  328  vim duplicate_files.sh 
+  329  vim duplicate_files.sh 
+  330  ./duplicate_files.sh das dsa 
+  331  vim duplicate_files.sh 
+  332  ls
+  333  uniq -d < text.txt 
+  334  cat text.txt 
+  335  vim duplicate_files.sh 
+  336  ./duplicate_files.sh das dsa 
+  337  ./duplicate_files.sh duplicate_files.sh 
+  338  vim duplicate_files.sh 
+  339  ./duplicate_files.sh 
+  340  text.txt > text1.txt
+  341  cat text.txt > text1.txt
+  342  ./duplicate_files.sh 
+  343  vim duplicate_files.sh 
+  344  ./duplicate_files.sh 
+  345  ls
+  346  cat seznam_souboru.txt 
+  347  ./duplicate_files.sh 
+  348  vim duplicate_files.sh 
+  349  ./duplicate_files.sh 
+  350  cut --help
+  351  vim duplicate_files.sh 
+  352  ./duplicate_files.sh 
+  353  vim duplicate_files.sh 
+  354  ./duplicate_files.sh 
+  355  vim duplicate_files.sh 
+  356  ./duplicate_files.sh 
+  357  ./duplicate_files.sh 
+  358  vim duplicate_files.sh 
+  359  ./duplicate_files.sh 
+  360  sha256sum *
+  361  ./duplicate_files.sh 
+  362  vim duplicate_files.sh 
+  363  vim duplicate_files.sh 
+  364  ./duplicate_files.sh 
+  365  ./duplicate_files.sh 
+  366  vim duplicate_files.sh 
+  367  ./duplicate_files.sh 
+  368  ./duplicate_files.sh 
+  369  vim duplicate_files.sh 
+  370  ./duplicate_files.sh 
+  371  vim duplicate_files.sh 
+  372  ./duplicate_files.sh 
+  373  vim duplicate_files.sh 
+  374  ./duplicate_files.sh 
+  375  vim text.txt 
+  376  cat text.txt | cut -d " " -f1
+  377  cat text.txt | cut -d " " -f2
+  378  cat text.txt 
+  379  cat text.txt | cut -d " " -f1
+  380  cat text.txt | cut -d " " -f2
+  381  cat text
+  382  ls
+  383  git remote git@github.com:KrystofMaxaCZ/MATFYZ.git
+  384  git remote add origin https://github.com/KrystofMaxaCZ/MATFYZ.git
+  385  ssh linux.ms.mff.cuni.cz
+  386  ls
+  387  cd linuxCviko/
+  388  ls
+  389  mkdir devateCviko
+  390  cd devateCviko/
+  391  vim kalkulacka.sh
+  392  chmod +x kalkulacka.sh 
+  393  chmod +x kalkulacka.sh 
+  394  vim kalkulacka.sh
+  395  chmod +x kalkulacka.sh 
+  396  ./kalkulacka.sh 
+  397  vim kalkulacka.sh
+  398  ./kalkulacka.sh 
+  399  vim kalkulacka.sh
+  400  ./kalkulacka.sh 12
+  401  ./kalkulacka.sh 123
+  402  vim kalkulacka.sh
+  403  ./kalkulacka.sh 123
+  404  ./kalkulacka.sh 123
+  405  vim kalkulacka.sh
+  406  vim kalkulacka.sh
+  407  ./kalkulacka.sh 123
+  408  vim kalkulacka.sh
+  409  ./kalkulacka.sh 123
+  410  vim kalkulacka.sh
+  411  ./kalkulacka.sh 123
+  412  vim kalkulacka.sh
+  413  ./kalkulacka.sh 123
+  414  ./kalkulacka.sh 1
+  415  vim kalkulacka.sh
+  416  ./kalkulacka.sh -1
+  417  ./kalkulacka.sh -100000
+  418  cd linuxCviko/
+  419  cd desateCviko/
+  420  ls
+  421  vim solution.sh
+  422  chmod +x solution.sh 
+  423  ./solution.sh <ukol.txt 
+  424  ls
+  425  ./solution.sh <ukol.txt 
+  426  grep ABC ukol.txt 
+  427  vim solution.sh
+  428  vim solution.sh
+  429  vim solution.sh
+  430  ./solution.sh <ukol.txt 
+  431  ./solution.sh ukol.txt 
+  432  vim solution.sh
+  433  man rm
+  434  man rv
+  435  man rn
+  436  man rm
+  437  mv solution.sh 01-substring.sh
+  438  cat 01-substring.sh | ssh linux.ms.mff.cuni.cz /tmp/x12/submit.sh 01-substring.sh 
+  439  cat 01-substring.sh | ssh linux.ms.mff.cuni.cz /tmp/x12/submit.sh 01-substring 
+  440  vim 02-matching_line
+  441  cat 02-matching_line | ssh linux.ms.mff.cuni.cz /tmp/x12/submit.sh 02-matching_line 
+  442  chmod +x 02-matching_line 
+  443  ./02-matching_line <ukol.txt 
+  444  ./02-matching_line <ukol.txt 
+  445  ./02-matching_line.sh <ukol.txt 
+  446  ls
+  447  mv 02-matching_line 02-matching_line.sh
+  448  ./02-matching_line.sh <ukol.txt 
+  449  vim 02-matching_line.sh 
+  450  cat 02-matching_line.sh | ssh linux.ms.mff.cuni.cz /tmp/x12/submit.sh 02-matching_line.sh 
+  451  cat 02-matching_line.sh | ssh linux.ms.mff.cuni.cz /tmp/x12/submit.sh 02-matching_line 
+  452  vim 02-matching_line.sh 
+  453  cat 02-matching_line.sh | ssh linux.ms.mff.cuni.cz /tmp/x12/submit.sh 02-matching_line 
+  454  grep '\ ' ukol.txt 
+  455  grep '\ ADDR' ukol.txt 
+  456  grep '!\ ADDR' ukol.txt 
+  457  grep '[^\] ADDR' ukol.txt 
+  458  grep '^[^\] ADDR' ukol.txt 
+  459  vim 03-matching_word.sh
+  460  grep ABC ukol.txt 
+  461  grep ABC ukol.txt
+  462  grep [ABC ukol.txt
+  463  grep '[ABC]' ukol.txt
+  464  grep '[\ ]ABC[\ ]' ukol.txt
+  465  grep '[\ ]ABC[\ ]' ukol.txt
+  466  grep -E '[\ ]+ABC[\ ]+' ukol.txt
+  467  grep '[\ ]*ABC[\ ]*' ukol.txt
+  468  grep '[\ ]ABC[\ ]' ukol.txt
+  469  vim 03-matching_word.sh 
+  470  cat 03-matching_word.sh | ssh linux.ms.mff.cuni.cz /tmp/x12/submit.sh 03-matching_word
+  471  vim 03-matching_word.sh 
+  472  grep '[\ ]*ABC[\ ]*' ukol.txt
+  473  vim 03-matching_word.sh 
+  474  cat 03-matching_word.sh | ssh linux.ms.mff.cuni.cz /tmp/x12/submit.sh 03-matching_word
+  475  git clone gitolite3@linux.ms.mff.cuni.cz:lab10-make-maxak
+  476  ls
+  477  cd lab10-make-maxak/
+  478  ls
+  479  cat build.sh 
+  480  ls
+  481  tree
+  482  ./build.sh 
+  483  tree
+  484  cat out/A1.png 
+  485  image out/A1.png 
+  486  display out/A1.png 
+  487  cat build.sh 
+  488  vim Makefile
+  489  make
+  490  touch card.sh 
+  491  make
+  492  vim Makefile
+  493  make
+  494  vim Makefile
+  495  make
+  496  vim Makefile 
+  497  git add .
+  498  git commit -m "Added pattern rules in Makefile"
+  499  git push
+  500  git status
+  501  ls -l
+  502  ls -la
+  503  cd .ssh/
+  504  ls -la
+  505  cd ..
+  506  ls
+  507  cd linuxCviko/
+  508  ls
+  509  mkdir jedenacteCviko
+  510  cd jedenacteCviko/
+  511  vim skript1.sh
+  512  cat >data.txt
+  513  cat data.txt | tr [a-z] [A-Z]
+  514  cat data.txt | tail -n 3 | tr [a-z] [A-Z]
+  515  vim skript1.sh
+  516  cat  | tail -n 3 | tr [a-z] [A-Z]
+  517  chmod +x skript1.sh 
+  518  cat  | tr [a-z] [A-Z] | tail -n 3
+  519  cat  | tr [a-z] [A-Z] | tail -n 3
+  520  cat  | tail -n 3 | tr [a-z] [A-Z]
+  521  vim skript1.sh
+  522  vim skript1.sh
+  523  cat  | tail -n 3 | tr [a-z] [A-Z]
+  524  cat  | tail -n 3 | tr [a-z] [A-Z]
+  525  cat  | tail -n 3 | tr [a-z] [A-Z]
+  526  vim skript1.sh
+  527  ./skript1.sh 
+  528  ./skript1.sh 
+  529  ./skript1.sh
+  530  ls
+  531  vim skript1.sh 
+  532  ./skript1.sh
+  533  ./skript1.sh
+  534  ./skript1.sh
+  535  dsa
+  536  ./skript1.sh
+  537  ./skript1.sh
+  538  ./skript1.sh
+  539  vim skript1.sh 
+  540  ./skript1.sh
+  541  vim skript1.sh 
+  542  ./skript1.sh
+  543  df -h
+  544  mount
+  545  echo Ahoj >> /dev/full
+  546  python
+  547  python3 -c 'print("Hello")' > /dev/full
+  548  /dev/rand
+  549  ~~~~~~~~~~~~~~~~~~~~~~~~22oypouzxczas
+  550  cd
+  551  file docs
+  552  file docs
+  553  file /docs
+  554  man file 
+  555  file -name 'docs'
+  556  file --name 'docs'
+  557  man file 
+  558  find -name 'docs'
+  559  find / -type d -name doc
+  560  find / -type d -name doc
+  561  find / -type d -name doc 2>/dev/null
+  562  find /opt -type d -name doc 2>/dev/null
+  563  find /opt -type d -name doc 2>/dev/null | ls
+  564  find /opt -type d -name doc 2>/dev/null | ls
+  565  ls $( find /opt -type d -name doc 2>/dev/null )
+  566  ls -la $( find /opt -type d -name doc 2>/dev/null )
+  567  ls -la $( find /opt -type d -name doc )
+  568  ls -l $( find /opt -type d -name doc )
+  569  find /opt/ -type f -path doc
+  570  find /opt/ -type f -path '*/doc/*'
+  571  ls -l $( find /opt -type d -name doc )
+  572  man exec
+  573  man basename
+  574  ls
+  575  ls -l
+  576  ls -l $( find /opt -type d -name doc )
+  577  find /opt/ -type f -path '*/doc/*'
+  578  find /opt/ -type f -path '*/doc/*' | basename
+  579  basename linuxCviko/
+  580  basename linuxCviko/devateCviko/
+  581  basename linuxCviko/devateCviko/kalkulacka.sh 
+  582* basename $( find /opt/ -type f -path '*/doc/*' )[B
+  583* find /opt/ -type f -path '*/doc/*' )
+  584  cd linuxCviko/jedenacteCviko/
+  585  vim jmeno.sh
+  586  vim jmeno.sh
+  587  chmod +x jmeno.sh 
+  588  ./jmeno.sh 
+  589  vim jmeno.sh
+  590  find /opt/ | while read filename; do echo "$filename"; done
+  591  find /opt/ -type f -path '*/doc/*' ) | while read filename; do echo "$filename"; done
+  592  find /opt/ -type f -path '*/doc/*' ) | while read filename; do echo "$filename"; done
+  593  find /opt/ -type f -path '*/doc/*' | while read filename; do echo "$filename"; done
+  594  find /opt/ -type f -path '*/doc/*' | while read filename; do echo "$(baseman $filename)"; done
+  595  find /opt/ -type f -path '*/doc/*' | while read filename; do echo "$(basename $filename)"; done
+  596  find /opt/ -type f -path '*/doc/*' | while read filename; do jmeno="$(basename $filename)" echo "$jmeno" | wc -m ; done
+  597  echo "find /opt/ -type f -path '*/doc/*' | while read filename; do jmeno="$(basename $filename)" echo "$jmeno" | wc -m ; done" > jmeno1.sh 
+  598  ls
+  599  vim jmeno
+  600  vim jmeno.sh 
+  601  ./jmeno.sh 
+  602  vim jmeno.sh 
+  603  ./jmeno.sh 
+  604  vim jmeno.sh 
+  605  ./jmeno.sh 
+  606  vim jmeno.sh 
+  607  ./jmeno.sh 
+  608  vim jmeno.sh 
+  609  ./jmeno.sh 
+  610  vim jmeno.sh 
+  611  ./jmeno.sh 
+  612  vim jmeno.sh 
+  613  ./jmeno.sh 
+  614  vim jmeno.sh 
+  615  git remote add matfyz  echo "find /opt/ -type f -path '*/doc/*' | while read filename; do jmeno="$(basename $filename)" echo "$jmeno" | wc -m ; done" > j
+  616  git remote add mff git@github.com:KrystofMaxaCZ/MATFYZ.git
+  617  git remote add mff https://github.com/KrystofMaxaCZ/MATFYZ.git
+  618  git remote add https://github.com/KrystofMaxaCZ/MATFYZ.git
+  619  git clone git@github.com:KrystofMaxaCZ/MATFYZ.git
+  620  ls
+  621  mc
+  622  ls
+  623  cd MATFYZ/
+  624  ls
+  625  git status
+  626  git add .
+  627  git status
+  628  git commit -m "Add classes of linux first year second sem"
+  629  git push
+  630  history
+  631  history > terminalHistory.txt
