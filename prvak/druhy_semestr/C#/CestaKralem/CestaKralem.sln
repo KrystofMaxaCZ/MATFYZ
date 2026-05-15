@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CestaKralem", "CestaKralem\CestaKralem.csproj", "{94F2F8CB-FD21-4B5C-9BE7-EA18E622894C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F2F8CB-FD21-4B5C-9BE7-EA18E622894C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F2F8CB-FD21-4B5C-9BE7-EA18E622894C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F2F8CB-FD21-4B5C-9BE7-EA18E622894C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F2F8CB-FD21-4B5C-9BE7-EA18E622894C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
